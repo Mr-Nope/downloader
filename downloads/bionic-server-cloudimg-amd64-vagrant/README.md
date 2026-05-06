@@ -1,4 +1,4 @@
-# bionic-server-cloudimg-amd64-vagrant.box - Download Failed
+# bionic-server-cloudimg-amd64-vagrant
 
 ---
 
@@ -6,29 +6,33 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `bionic-server-cloudimg-amd64-vagrant.box` |
-| **URL** | https://mirrors.huaweicloud.com/ubuntu-cloud-images/bionic/20200107/bionic-server-cloudimg-amd64-vagrant.box |
-| **Date** | 2026-05-06 07:28:10 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `bionic-server-cloudimg-amd64-vagrant.box` |
+| **Total Size** | **8 zip parts** - **355.64 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      curl: (22) The requested URL returned error: 404
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `bionic-server-cloudimg-amd64-vagrant.z01` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z01) |
+| 2 | `bionic-server-cloudimg-amd64-vagrant.z02` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z02) |
+| 3 | `bionic-server-cloudimg-amd64-vagrant.z03` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z03) |
+| 4 | `bionic-server-cloudimg-amd64-vagrant.z04` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z04) |
+| 5 | `bionic-server-cloudimg-amd64-vagrant.z05` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z05) |
+| 6 | `bionic-server-cloudimg-amd64-vagrant.z06` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z06) |
+| 7 | `bionic-server-cloudimg-amd64-vagrant.z07` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.z07) |
+| 8 | `bionic-server-cloudimg-amd64-vagrant.zip` | [Download](https://github.com/Mr-Nope/downloader/raw/main/downloads/bionic-server-cloudimg-amd64-vagrant/bionic-server-cloudimg-amd64-vagrant.zip) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download** all `.zip` and `.z01`, `.z02`... files
+2. **Extract** using [7-Zip](https://www.7-zip.org/) or [WinRAR](https://www.rarlab.com/)
+3. Open the `.zip` file - all parts will combine automatically
 
 ---
 
